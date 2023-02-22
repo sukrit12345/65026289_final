@@ -1,0 +1,28 @@
+.d1{
+    background: rgb(217, 9, 245); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left,rgba(255,0,0,0),rgb(135, 49, 168)); /*Safari 5.1-6*/
+    background: -o-linear-gradient(right,rgba(255,0,0,0),rgb(184, 16, 206)); /*Opera 11.1-12*/
+    background: -moz-linear-gradient(right,rgba(255,0,0,0),rgb(82, 32, 175)); /*Fx 3.6-15*/
+    background: linear-gradient(to right, rgba(255,0,0,0), rgb(20, 154, 216)); /*Standard*/
+    margin-right:30% ;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.d2{
+    margin-left: 35%;
+}
+.d3{
+    margin-left: 35%;
+}
+.d4{
+    margin-left: 35%;
+}
+.d5{
+    margin-left: 35%;
+}
+.a1{
+    margin-right: 15%;
+}
+.a2{
+    margin-right: 8%;
+}
